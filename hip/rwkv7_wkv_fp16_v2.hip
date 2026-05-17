@@ -8,7 +8,7 @@
 #include <hip/hip_fp16.h>
 #include <hip/hip_runtime.h>
 
-#include "rwkv7_fast_v4_kernels.cuh"
+#include "rwkv7_fast_v4_kernels.hpp"
 
 namespace {
 

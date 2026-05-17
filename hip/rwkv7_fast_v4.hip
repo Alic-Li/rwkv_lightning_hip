@@ -20,7 +20,7 @@
 #include "pth_tensor.hpp"
 #include "rwkv_server_backend.hpp"
 #include "rwkv7_fast_v4_common.hpp"
-#include "rwkv7_fast_v4_kernels.cuh"
+#include "rwkv7_fast_v4_kernels.hpp"
 
 namespace {
 

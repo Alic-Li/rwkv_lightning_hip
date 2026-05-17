@@ -6,7 +6,7 @@
 
 #include <cstdint>
 
-#include "rwkv7_fast_v4_kernels.cuh"
+#include "rwkv7_fast_v4_kernels.hpp"
 
 using dtype = half;
 
