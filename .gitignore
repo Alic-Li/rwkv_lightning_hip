@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+rwkv_sessions.db
+rwkv_batch/
+bak/
+build/
+third_party/
+uploads/
+RWKV_Lightning_CUDA_Launcher/rwkv_launcher
+RWKV_Lightning_CUDA_Launcher/rwkv_launcher.exe
